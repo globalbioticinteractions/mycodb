@@ -1,0 +1,16 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
+  "tables": [
+    { "url": "https://datadryad.org/bitstream/handle/10255/dryad.186414/MycoDB_version4.csv?sequence=3",
+      "referenceDoi": "10.1038/sdata.2016.28",
+      "dcterms:bibliographicCitation": "Chaudhary, V. B., Rúa, M. A., Antoninka, A., Bever, J. D., Cannon, J., Craig, A., … Hoeksema, J. D. (2016). MycoDB, a global database of plant response to mycorrhizal fungi. Scientific Data, 3, 160028. doi:10.1038/sdata.2016.28",
+      "tableSchema": "schema.json",
+      "delimiter": ",",
+      "null": ["NA"],
+      "headerRowCount": 1,
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002454",
+      "interactionTypeName": "hasHost"
+    }
+  ]
+}

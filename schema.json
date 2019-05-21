@@ -1,0 +1,261 @@
+{
+  "columns": [
+    {
+      "name": "NONCTLTRTSETID",
+      "titles": "NONCTLTRTSETID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonName",
+      "titles": "PlantSpecies2018",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "FungalGenus2018",
+      "datatype": "string"
+    },
+    {
+      "name": "EMF_ORIGIN_TED",
+      "titles": "EMF_ORIGIN_TED",
+      "datatype": "string"
+    },
+    {
+      "name": "EMF_ORIGIN_ALT",
+      "titles": "EMF_ORIGIN_ALT",
+      "datatype": "string"
+    },
+    {
+      "name": "Hoeksema2018",
+      "titles": "Hoeksema2018",
+      "datatype": "string"
+    },
+    {
+      "name": "EXPERIMENTID",
+      "titles": "EXPERIMENTID",
+      "datatype": "string"
+    },
+    {
+      "name": "CTLTRTSETID",
+      "titles": "CTLTRTSETID",
+      "datatype": "string"
+    },
+    {
+      "name": "LASTNAME1",
+      "titles": "LASTNAME1",
+      "datatype": "string"
+    },
+    {
+      "name": "LASTNAME2",
+      "titles": "LASTNAME2",
+      "datatype": "string"
+    },
+    {
+      "name": "PAPERYEAR",
+      "titles": "PAPERYEAR",
+      "datatype": "string"
+    },
+    {
+      "name": "JOURNALNAME",
+      "titles": "JOURNALNAME",
+      "datatype": "string"
+    },
+    {
+      "name": "referenceCitation",
+      "titles": "PAPERTITLE",
+      "datatype": "string"
+    },
+    {
+      "name": "PAPERDATASOURCENAME",
+      "titles": "PAPERDATASOURCENAME",
+      "datatype": "string"
+    },
+    {
+      "name": "EFFECTSIZE1",
+      "titles": "EFFECTSIZE1",
+      "datatype": "string"
+    },
+    {
+      "name": "ESTVAR1",
+      "titles": "ESTVAR1",
+      "datatype": "string"
+    },
+    {
+      "name": "ESTVAR3",
+      "titles": "ESTVAR3",
+      "datatype": "string"
+    },
+    {
+      "name": "ctrl_mass",
+      "titles": "ctrl_mass",
+      "datatype": "string"
+    },
+    {
+      "name": "ctrl_reps",
+      "titles": "ctrl_reps",
+      "datatype": "string"
+    },
+    {
+      "name": "ctrl_sd",
+      "titles": "ctrl_sd",
+      "datatype": "string"
+    },
+    {
+      "name": "trt_mass",
+      "titles": "trt_mass",
+      "datatype": "string"
+    },
+    {
+      "name": "trt_reps",
+      "titles": "trt_reps",
+      "datatype": "string"
+    },
+    {
+      "name": "trt_sd",
+      "titles": "trt_sd",
+      "datatype": "string"
+    },
+    {
+      "name": "PlantFamily",
+      "titles": "PlantFamily",
+      "datatype": "string"
+    },
+    {
+      "name": "PlantSpecies",
+      "titles": "PlantSpecies",
+      "datatype": "string"
+    },
+    {
+      "name": "PlantSpeciesMar2017",
+      "titles": "PlantSpeciesMar2017",
+      "datatype": "string"
+    },
+    {
+      "name": "FungalGenus",
+      "titles": "FungalGenus",
+      "datatype": "string"
+    },
+    {
+      "name": "PLANTLIFEHISTORY",
+      "titles": "PLANTLIFEHISTORY",
+      "datatype": "string"
+    },
+    {
+      "name": "FUNGROUP",
+      "titles": "FUNGROUP",
+      "datatype": "string"
+    },
+    {
+      "name": "NONMYCOCONTROL",
+      "titles": "NONMYCOCONTROL",
+      "datatype": "string"
+    },
+    {
+      "name": "NONMYCOCONTROL2",
+      "titles": "NONMYCOCONTROL2",
+      "datatype": "string"
+    },
+    {
+      "name": "FERTP",
+      "titles": "FERTP",
+      "datatype": "string"
+    },
+    {
+      "name": "FERTN",
+      "titles": "FERTN",
+      "datatype": "string"
+    },
+    {
+      "name": "INOC.COMPLEXITY",
+      "titles": "INOC.COMPLEXITY",
+      "datatype": "string"
+    },
+    {
+      "name": "STERILIZED",
+      "titles": "STERILIZED",
+      "datatype": "string"
+    },
+    {
+      "name": "MYCORRHIZAETYPE",
+      "titles": "MYCORRHIZAETYPE",
+      "datatype": "string"
+    }
+,
+    {
+      "name": "LOCATION",
+      "titles": "LOCATION",
+      "datatype": "string"
+    },
+    {
+      "name": "DOMESTICATED",
+      "titles": "DOMESTICATED",
+      "datatype": "string"
+    },
+    {
+      "name": "Rua2016",
+      "titles": "Rua2016",
+      "datatype": "string"
+    },
+    {
+      "name": "Rua2017",
+      "titles": "Rua2017",
+      "datatype": "string"
+    },
+    {
+      "name": "Loc_Ad_appropriate",
+      "titles": "Loc_Ad_appropriate",
+      "datatype": "string"
+    },
+    {
+      "name": "LA_Code",
+      "titles": "LA_Code",
+      "datatype": "string"
+    },
+    {
+      "name": "Plant_Lat",
+      "titles": "Plant_Lat",
+      "datatype": "string"
+    },
+    {
+      "name": "Plant_Long",
+      "titles": "Plant_Long",
+      "datatype": "string"
+    }
+		,
+    {
+      "name": "Fung_Lat",
+      "titles": "Fung_Lat",
+      "datatype": "string"
+    },
+    {
+      "name": "Fung_Long",
+      "titles": "Fung_Long",
+      "datatype": "string"
+    },
+    {
+      "name": "Soil_Lat",
+      "titles": "Soil_Lat",
+      "datatype": "string"
+    },
+    {
+      "name": "Soil_Long",
+      "titles": "Soil_Long",
+      "datatype": "string"
+    },
+    {
+      "name": "AM_single_genus",
+      "titles": "AM_single_genus",
+      "datatype": "string"
+    },
+    {
+      "name": "EM_single_genus",
+      "titles": "EM_single_genus",
+      "datatype": "string"
+    },
+    {
+      "name": "Karst2018",
+      "titles": "Karst2018",
+      "datatype": "string"
+    }														
+  ]
+}
