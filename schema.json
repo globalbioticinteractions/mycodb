@@ -6,12 +6,12 @@
       "datatype": "string"
     },
     {
-      "name": "sourceTaxonName",
+      "name": "targetTaxonName",
       "titles": "PlantSpecies2018",
       "datatype": "string"
     },
     {
-      "name": "targetTaxonName",
+      "name": "sourceTaxonName",
       "titles": "FungalGenus2018",
       "datatype": "string"
     },
