@@ -182,7 +182,7 @@
     }
 ,
     {
-      "name": "LOCATION",
+      "name": "localityName",
       "titles": "LOCATION",
       "datatype": "string"
     },
