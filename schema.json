@@ -41,7 +41,7 @@
       "datatype": "string"
     },
     {
-      "name": "LASTNAME1",
+      "name": "author",
       "titles": "LASTNAME1",
       "datatype": "string"
     },
@@ -51,17 +51,17 @@
       "datatype": "string"
     },
     {
-      "name": "PAPERYEAR",
+      "name": "year",
       "titles": "PAPERYEAR",
       "datatype": "string"
     },
     {
-      "name": "JOURNALNAME",
+      "name": "journal",
       "titles": "JOURNALNAME",
       "datatype": "string"
     },
     {
-      "name": "referenceCitation",
+      "name": "title",
       "titles": "PAPERTITLE",
       "datatype": "string"
     },
