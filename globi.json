@@ -10,9 +10,7 @@
       "tableSchema": "schema.json",
       "delimiter": ",",
       "null": ["NA"],
-      "headerRowCount": 1,
-      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002454",
-      "interactionTypeName": "hasHost"
+      "headerRowCount": 1
     }
   ]
 }

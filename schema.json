@@ -176,7 +176,7 @@
       "datatype": "string"
     },
     {
-      "name": "MYCORRHIZAETYPE",
+      "name": "interactionTypeName",
       "titles": "MYCORRHIZAETYPE",
       "datatype": "string"
     }
